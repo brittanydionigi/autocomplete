@@ -1,0 +1,19 @@
+{
+  "name": "@brittanystoroz/autocomplete",
+  "version": "1.1.0",
+  "description": "Prefix trie for autocomplete",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brittanystoroz/autocomplete.git"
+  },
+  "author": "Brittany Storoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brittanystoroz/autocomplete/issues"
+  },
+  "homepage": "https://github.com/brittanystoroz/autocomplete#readme"
+}

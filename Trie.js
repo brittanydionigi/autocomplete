@@ -2,7 +2,7 @@ const Node = require('./Node');
 
 class Trie {
   constructor() {
-    // what instance properties shall we set?
+    this.wordCount = 0;
   }
 
   insert(word) {
